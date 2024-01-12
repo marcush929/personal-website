@@ -1,2 +1,3 @@
 # personal-website
-Personal Website
+
+Create my own portfolio website using React
